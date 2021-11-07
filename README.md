@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noufal Rahman</h1>
 <h3 align="center">Student, web dev, passionate learner</h3>
 
-- 🌱 Student **@GCE Salem and @IIT Madras**
+- 🌱 Student **@GCE Salem** and **@IIT Madras**
 
 - 🌱 I’m currently learning **ReactJS, Python and Java**
 
-- 👨‍💻 All of my projects are available at https://rahman24.github.io
+- 👨‍💻 All of my projects are available at <a href="https://rahman24.github.io" target="_blank">**https://rahman24.github.io**</a>
 
 - 💬 Ask me about **HTML, JS, CSS, ReactJS, Python, C**
 
