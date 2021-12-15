@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noufal Rahman</h1>
 <h3 align="center">Student, web dev, passionate learner</h3>
 
-- 🌱 Student **@GCE Salem** and **@IIT Madras**
+- 🌱 Student **@GCT Coimbatore** and **@IIT Madras**
 
 - 🌱 I’m currently learning **ReactJS, Python and Java**
 
