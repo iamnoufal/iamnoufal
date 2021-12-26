@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Python and Java**
 
-- 👨‍💻 All of my projects are available at <a href="https://rahman24.github.io" target="_blank">**https://rahman24.github.io**</a>
+- 👨‍💻 All of my projects are available at <a href="https://noufal.me" target="_blank">**https://noufal.me**</a>
 
 - 💬 Ask me about **HTML, JS, CSS, ReactJS, Python, C**
 
