@@ -7,7 +7,7 @@ I'm a second year engineering student pursuing my favourite major, Computer Scie
 - 🌱 I’m currently learning **ReactJS, Flutter and Dart and Java**
 - 👨‍💻 Head to my portfolio: <a href="https://noufal.me" target="_blank">**https://noufal.me**</a>
 - 💬 I could answer your questions on **HTML, JS, CSS, ReactJS, Python, C**
-- 📫 Feel free to mail me **jnrahman12@gmail.com**
+- 📫 Feel free to mail me **noufal@gct.ac.in**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
