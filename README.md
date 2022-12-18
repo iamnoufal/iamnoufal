@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Noufal Rahman</h1>
 <h3 align="center">Student, web dev, passionate learner</h3>
 
-I'm a second year engineering student pursuing my favourite major, Computer Science. Being a web development enthusiast, I wish to create functional websites that could ease people's work. My other favorite hobbies include painting, traveling and writing blogs and poems. I aspire to learn more on Artificial Intelligence and Machine Learning.
+Hi i love read, speak and discuss about trending tech, space and science 
 
 - 🌱 Student at **GCT Coimbatore** and **IIT Madras**
-- 🌱 I’m currently learning **ReactJS, Flutter and Dart and Java**
 - 👨‍💻 Head to my portfolio: <a href="https://noufal.me" target="_blank">**https://noufal.me**</a>
-- 💬 I could answer your questions on **HTML, JS, CSS, ReactJS, Python, C**
+- 💬 I could answer your questions on full stack development and python and CPP
 - 📫 Feel free to mail me [noufal@gct.ac.in](mailto:noufal@gct.ac.in)
-- Read my blog at <a href="https://blog.noufal.me" target="_blank">https://blog.noufal.me</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
