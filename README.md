@@ -19,9 +19,9 @@
 Hey there! I love to read, speak and discuss about trending tech, space and science 
 
 - 🌱 Student at **GCT Coimbatore** and **IIT Madras**
-- 👨‍💻 Head to my portfolio: <a href="https://noufal.engineer" target="_blank">**https://noufal.engineer**</a>
+- 👨‍💻 Head to my portfolio: <a href="https://noufal.dev" target="_blank">**https://noufal.dev**</a>
 - 💬 I could answer your questions on full stack development and python and CPP
-- 📫 Feel free to mail me [jnrahman12@gmail.com](mailto:jnrahman12@gmail.com)
+- 📫 Feel free to mail me [iam@noufal.dev](mailto:iam@noufal.dev)
 
 
 ## <a href="https://github.com/iamnoufal"></a> GitHub Stats
