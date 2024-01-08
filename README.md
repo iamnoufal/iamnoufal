@@ -1,10 +1,10 @@
-<h1 style="text-align: center">Hi 👋, I'm Noufal Rahman</h1>
-<div style="text-align: center">
+<h1 align="center">Hi 👋, I'm Noufal Rahman</h1>
+<div align="center">
 	<img src="https://komarev.com/ghpvc/?username=iamnoufal&label=Profile%20views&color=0e75b6&style=flat" alt="iamnoufal" />
 	<img src="https://img.shields.io/github/followers/iamnoufal?label=Followers" alt="iamnoufal" />
 </div>
 
-<p style="text-align: center">
+<p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;A+passionate+student;Competitive+Programmer;Critical+Thinker;Always%20Crafting%20new%20things&center=true&wi1dth=380&height=45">
 </p>
 
@@ -15,19 +15,19 @@ Hey there! I love to read, speak and discuss about trending tech, space and scie
 - 💬 I could answer your questions on full stack development and python and CPP
 - 📫 Feel free to mail me [iam@noufal.dev](mailto:iam@noufal.dev)
 
-## GitHub Stats
+## <p align="center">GitHub Stats</p>
 
-<img src="https://github.com/iamnoufal/iamnoufal/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution-Snake">
+<img src="https://github.com/iamnoufal/iamnoufal/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution-Snake" width="100%" /> 
 
-<div style="text-align: center; padding: 0 5vw">
+<div align="center" style="text-align: center; padding: 0 5vw">
   <img src="https://github-readme-stats.vercel.app/api?username=iamnoufal&theme=blue-green" alt="iamnoufal">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnoufal&theme=blue-green" alt="iamnoufal">
 </div>
+ 
+### <p align="center">⚡ Top Languages</p>
 
-### ⚡ Top Languages
-
-<div style="text-align: center; padding: 0 5vw">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnoufal&langs_count=8&layout=compact&theme=blue-green" width="100%" alt="iamnoufal">
+<div align="center" style="text-align: center; padding: 0 5vw">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnoufal&langs_count=8&layout=compact&theme=blue-green" alt="iamnoufal">
 </div>
 
 ## It's not perfect, is it?
